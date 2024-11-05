@@ -22,7 +22,9 @@ Things that we are going to work on including and morals we will follow when wri
 * Tor Daemon
 * QEMU
 * Lutris
-* Wine64
+* Wine64 (mostly valve's proton)
+* JDownloader2
+* Some goofy custom game downloader (definetly legal)
 
 *And more to come*
 
