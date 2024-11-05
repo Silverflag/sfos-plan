@@ -14,7 +14,7 @@ Things that we are going to work on including and morals we will follow when wri
 8. The following apps should be installable in the installer (and of course easily opt out of)
 
 * Discord
-* QBitTorrent (or our fork)
+* qBitTorrent (or our fork)
 * Firefox
 * Steam (runtime/native)
 * ProtonVPN
@@ -25,6 +25,9 @@ Things that we are going to work on including and morals we will follow when wri
 * Wine64 (mostly valve's proton)
 * JDownloader2
 * Some goofy custom game downloader (definetly legal)
+* neovim (if u use it)
+* Spotify (maybe blockthespot and some other mods)
+* Stremio
 
 *And more to come*
 
