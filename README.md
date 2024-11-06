@@ -24,10 +24,12 @@ Things that we are going to work on including and morals we will follow when wri
 * Lutris
 * Wine64 (mostly valve's proton)
 * JDownloader2
-* Some goofy custom game downloader (definetly legal)
-* neovim (if u use it)
-* Spotify (maybe blockthespot and some other mods)
+* Custom downloading solution
+* neovim (better than vim :100:)
+* Spotify (blockthespot?)
 * Stremio
+* Samba & FTP client (something other than FileZilla
+* Dedicated PiP menu (picture in picture for subway surfers)
 
 *And more to come*
 
