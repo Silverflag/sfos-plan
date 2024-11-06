@@ -28,7 +28,7 @@ Things that we are going to work on including and morals we will follow when wri
 * neovim (better than vim :100:)
 * Spotify (blockthespot?)
 * Stremio
-* Samba & FTP client (something other than FileZilla
+* Samba & FTP client (something other than FileZilla)
 * Dedicated PiP menu (picture in picture for subway surfers)
 
 *And more to come*
