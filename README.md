@@ -30,6 +30,7 @@ Things that we are going to work on including and morals we will follow when wri
 * Stremio
 * Samba & FTP client (something other than FileZilla)
 * Dedicated PiP menu (picture in picture for subway surfers)
+* pi-calc (cpu) (note by popr4x: no gpu version for now) (another note: also i made it lol)
 
 *And more to come*
 
