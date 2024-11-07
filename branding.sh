@@ -1,13 +1,14 @@
 #!/bin/bash
-mount_point="/path2image"
-# This is probably legal
-find "$mount_point" -type f -exec sed -i 's/Arch Linux/sfOS-zen/g' {} +
-find "$mount_point" -type f -exec sed -i 's/arch linux/sfos-zen/g' {} +
-find "$mount_point" -type f -exec sed -i 's/ARCH LINUX/SFOS-ZEN/g' {} +
-find "$mount_point" -type f -exec sed -i 's/archlinux/sfoszen/g' {} +
-find "$mount_point" -type f -exec sed -i 's/Archlinux/sfOSzen/g' {} +
-find "$mount_point" -type f -exec sed -i 's/archLinux/sfoszen/g' {} +
-find "$mount_point" -type f -exec sed -i 's/ARCHLINUX/SFOSZEN/g' {} +
-find "$mount_point" -type f -exec sed -i 's/Arch/sfOS/g' {} +
-find "$mount_point" -type f -exec sed -i 's/arch/sfos/g' {} +
-echo "Branding updated from 'Arch Linux' to 'sfOS-zen."
+# Path to the directory containing the uncompiled OS
+sfos_dir="/path/to/sfos"
+# Better logic 
+find "$sfos_dir" -type f -exec sed -i 's/Arch Linux/sfOS/g' {} +
+find "$sfos_dir" -type f -exec sed -i 's/arch linux/sfos/g' {} +
+find "$sfos_dir" -type f -exec sed -i 's/ARCH LINUX/SFOS/g' {} +
+find "$sfos_dir" -type f -exec sed -i 's/archlinux/sfos/g' {} +
+find "$sfos_dir" -type f -exec sed -i 's/Archlinux/sfos/g' {} +
+find "$sfos_dir" -type f -exec sed -i 's/archLinux/sfos/g' {} +
+find "$sfos_dir" -type f -exec sed -i 's/ARCHLINUX/SFOS/g' {} +
+find "$sfos_dir" -type f -exec sed -i 's/Arch/sfos/g' {} +
+find "$sfos_dir" -type f -exec sed -i 's/arch/sfos/g' {} +
+echo "Branding updated directly in the 'sfos' directory."
