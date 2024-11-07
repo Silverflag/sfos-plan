@@ -5,17 +5,18 @@ Silverflag OS: The OS you actually enjoy using
 Things that we are going to work on including and morals we will follow when writing code for the OS:
 
 1. Anything extra should be easy (trivially easy) to remove or disable, wether in the installer or after installation.
-2. It should use purely open source software (where possible)
-3. Should have amazing security by default
-4. Should have an easy way to share a port with the internet using Cloudflare
-5. Should have a dedicated web panel you can access via localhost that is able to control the custom firewall and allow and dissalow traffic
-6. zen kernel :)
-7. XFCE4 in a similar layout to Windows for new users to easily comprehend.
-8. KDE Plasma for power. (no gnome built-in ha)
-9. The following apps should be installable in the installer (and of course easily opt out of)
+2. We will have mirrors in different countries for fast downloading and also torrent options
+3. It should use purely open source software (where possible)
+4. Should have amazing security by default
+5. Should have an easy way to share a port with the internet using Cloudflare
+6. Should have a dedicated web panel you can access via localhost that is able to control the custom firewall and allow and dissalow traffic
+7. zen kernel :)
+8. XFCE4 in a similar layout to Windows for new users to easily comprehend.
+10. KDE Plasma for power. (no gnome built-in ha)
+11. The following apps should be installable in the installer (and of course easily opt out of)
 
 * Discord
-* Ferdium (so you have all Social Media in one place)
+* Ferdium (so you have all Social Media in one place) (maybe)
 * qBitTorrent (or our fork)
 * Firefox
 * Steam (runtime/native)
